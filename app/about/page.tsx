@@ -97,7 +97,7 @@ const AboutPage = () => {
           {/* CV Buttons */}
           <div className="flex flex-wrap gap-4 mb-8">
             <a
-              href="/Mohammed_Abd_El_Fatah_Full_Stack_ATS_CV-1.pdf"
+              href="/Mohamed_Abdelfatah_Sayed_16-6-2026.pdf"
               download
               className="inline-flex items-center gap-2 px-5 py-3 rounded-xl 
                          bg-gradient-to-r from-purple-500 to-blue-500 
@@ -109,7 +109,7 @@ const AboutPage = () => {
             </a>
 
             <a
-              href="/Mohammed_Abd_El_Fatah_Full_Stack_ATS_CV-1.pdf"
+              href="/Mohamed_Abdelfatah_Sayed_16-6-2026.pdf"
               target="_blank"
               className="inline-flex items-center gap-2 px-5 py-3 rounded-xl 
                          bg-white/10 hover:bg-white/20 
