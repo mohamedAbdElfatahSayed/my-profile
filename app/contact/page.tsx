@@ -55,7 +55,7 @@ const Contact = () => {
 
           {/* LinkedIn */}
           <a
-            href="https://www.linkedin.com/in/mohamed-abd-elfatah-20985528b/"
+            href="www.linkedin.com/in/mohamed-abd-el-fatah-185602418"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Visit Mohamed Abdelfatah LinkedIn profile"
